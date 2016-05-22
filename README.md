@@ -1,2 +1,2 @@
 # login-control
-Enable / Disable login according to a specific time frame
+Enable / Disable linux login (ubuntu) according to a specific time frame
